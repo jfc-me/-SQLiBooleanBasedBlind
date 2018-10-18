@@ -1,5 +1,6 @@
 SQLi Boolean Based Blind:
 
+#Ex: 2
 
 Teste automatizado  baseado em valores booleanos.
 
@@ -8,4 +9,4 @@ Teste automatizado  baseado em valores booleanos.
 -True
 
 
-  
+@jfc_me

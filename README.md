@@ -1,12 +1,11 @@
-SQLi Boolean Based Blind:
+SQLi:
 
-#Ex: 2
 
-Teste automatizado  baseado em valores booleanos.
+#Ex:3
 
--False
 
--True
+Teste automatizado.
+
 
 
 @jfc_me
